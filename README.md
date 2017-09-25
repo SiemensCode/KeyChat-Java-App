@@ -1,6 +1,6 @@
 # KeyChat Java App Prototype 1
 
-KeyChat (Prototype 1) is a Java Application where users exchange messages which are encrypted using the Keybase command line tool.
+KeyChat (Prototype 1) is a Java Application where users exchange messages which are encrypted using the Keybase command line tool.  Download Keybase [here](https://keybase.io/download).
 
 ## How to run on Windows
 
